@@ -1,0 +1,64 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 30 May 2022 20:16:12 GMT
+ */
+
+:root {
+  --border-radius-none: 0px;
+  --border-radius-sm: 8px;
+  --border-radius-md: 16px;
+  --border-radius-lg: 24px;
+  --border-radius-pill: 500px;
+  --border-radius-circular: 50%;
+  --border-width-none: 0px;
+  --border-width-hairline: 1px;
+  --border-width-thin: 2px;
+  --border-width-thick: 4px;
+  --border-width-heavy: 8px;
+  --font-size-xxxs: 12px;
+  --font-size-xxs: 14px;
+  --font-size-xs: 16px;
+  --font-size-sm: 20px;
+  --font-size-md: 24px;
+  --font-size-lg: 32px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 64px;
+  --font-size-display: 80px;
+  --font-size-giant: 96px;
+  --line-height-default: 100%;
+  --line-height-xs: 115%;
+  --line-height-sm: 120%;
+  --line-height-md: 133%;
+  --line-height-lg: 150%;
+  --line-height-xl: 170%;
+  --line-height-xxl: 200%;
+  --opacity-level-semiopaque: 0.80;
+  --opacity-level-intense: 0.64;
+  --opacity-level-medium: 0.32;
+  --opacity-level-light: 0.16;
+  --opacity-level-semitransparent: 0.08;
+  --shadow-level-1: [object Object];
+  --shadow-level-2: [object Object];
+  --shadow-level-3: [object Object];
+  --shadow-level-4: [object Object];
+  --spacing-inset-quarck: [object Object];
+  --spacing-inset-nano: [object Object];
+  --spacing-inset-xs: [object Object];
+  --spacing-inset-sm: [object Object];
+  --spacing-inset-md: [object Object];
+  --spacing-inset-lg: [object Object];
+  --spacing-quarck: 4px;
+  --spacing-nano: 8px;
+  --spacing-xxxs: 16px;
+  --spacing-xxs: 24px;
+  --spacing-xs: 32px;
+  --spacing-sm: 40px;
+  --spacing-md: 48px;
+  --spacing-lg: 58px;
+  --spacing-xl: 64px;
+  --spacing-xxl: 80px;
+  --spacing-xxxl: 120px;
+  --spacing-huge: 160px;
+  --spacing-giant: 200px;
+}

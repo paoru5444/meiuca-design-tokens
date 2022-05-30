@@ -1,0 +1,12 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "dependencies": {
+    "style-dictionary": "3.1.1"
+  }
+}

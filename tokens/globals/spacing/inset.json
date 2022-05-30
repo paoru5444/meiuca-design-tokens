@@ -1,0 +1,42 @@
+{
+  "spacing": {
+    "inset": {
+      "quarck": {
+        "value": {
+          "v": "4px",
+          "h": "8px"
+        }
+      },
+      "nano": {
+        "value": {
+          "v": "8px",
+          "h": "8px"
+        }
+      },
+      "xs": {
+        "value": {
+          "v": "16px",
+          "h": "16px"
+        }
+      },
+      "sm": {
+        "value": {
+          "v": "24px",
+          "h": "24px"
+        }
+      },
+      "md": {
+        "value": {
+          "v": "24px",
+          "h": "32px"
+        }
+      },
+      "lg": {
+        "value": {
+          "v": "40px",
+          "h": "40px"
+        }
+      }
+    }
+  }
+}
