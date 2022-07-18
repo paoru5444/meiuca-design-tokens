@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "node src/index.js"
+    "build": "node src/index.js",
+    "build:dev": "rm -rf dist && node src/index.js"
   },
   "dependencies": {
     "style-dictionary": "3.1.1"

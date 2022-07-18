@@ -6,14 +6,24 @@ function getDirectories(dirPath) {
 }
 
 function getBrands() {
-  const BRANDS = [{
-    source: path.resolve('tokens', 'globals', '**', '*.json'),
-    dest: '',
-    filename: 'globals',
-    brand: '',
-    theme: '',
-    mode: ''
-  }]
+  const BRANDS = [
+    {
+      source: path.resolve('tokens', 'globals', '**', '*.json'),
+      dest: '',
+      filename: 'globals',
+      brand: '',
+      theme: '',
+      mode: ''
+    },
+    {
+      source: path.resolve('tokens', 'motions', '**', '*.json'),
+      dest: '',
+      filename: 'motions',
+      brand: '',
+      theme: '',
+      mode: '' 
+    }
+]
 
   getDirectories(path.resolve('tokens', 'brands')).map(brand => {
     getDirectories(path.resolve('tokens', 'brands', brand)).map(theme => {
